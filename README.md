@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ark Tandon</h1>
-<h3 align="center">A passionate frontend designer, Data science enthusiast from India</h3>
+<h3 align="center">A passionate Frontend Designer and Devloper(Django), Data science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csxark&label=Profile%20views&color=0e75b6&style=flat" alt="csxark" /> </p>
 
