@@ -20,7 +20,7 @@
 ### Glad to see you here!  
 I’m a full-stack developer focused on building scalable, high-performance web applications.
 
-I work primarily with TypeScript, JavaScript, React, Next.js, Tailwind CSS, and build reliable backends using Node.js, Express, Django, and databases like PostgreSQL, MongoDB, MySQL, and Supabase.
+I work primarily with TypeScript, JavaScript, React, Next.js, Tailwind CSS, and build reliable backends using Node.js, Express, Django, and databases like PostgreSQL, MySQL, and Supabase.
 
 I enjoy designing systems that are simple yet powerful, writing clean APIs, optimizing data flows, and turning ideas into production-ready software. I also explore system design, performance optimization, and modern web technologies.
 
