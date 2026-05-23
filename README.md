@@ -14,9 +14,10 @@
 
 ## ∮ About Me
 
-CS undergraduate at **Manipal University Jaipur** with hands-on experience in frontend engineering, AI-powered applications, and open-source development. I build scalable, user-centric platforms using **React**, **TypeScript**, **FastAPI**, and modern GenAI frameworks — with a focus on impactful products in education, finance, and mental health domains.
+Passionate about building scalable, user-centric web applications and intelligent AI-powered systems. I work primarily with **React**, **TypeScript**, **FastAPI**, and modern GenAI frameworks — with experience shipping products across education, finance, and mental health domains.
 
-Lately I've been deep in **LangChain**, **LangGraph**, and agentic AI — building RAG pipelines and LLM-powered workflows that plug into real products. I care about systems that are both intelligent and maintainable — code written with purpose, built for scale.
+My current focus sits at the intersection of full-stack engineering and agentic AI — designing **RAG pipelines**, **LangChain** and **LangGraph** workflows, and LLM-powered applications that solve real problems. I'm an active open-source contributor, having participated in national-level programs like **GirlScript Summer of Code** and served as a **Project Admin at Elite Coders Winter of Code**.
+I care about clean architecture, purposeful code, and building things that actually matter.
 
 > *"Code with purpose. Build for scale."*
 
