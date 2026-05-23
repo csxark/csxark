@@ -31,14 +31,13 @@ Lately I've been deep in **LangChain**, **LangGraph**, and agentic AI — buildi
   <tr>
     <td align="center" width="50%">
       <h3>🔤 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,cpp&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark&perline=6" />
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee" />
       <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=22d3ee" />
       <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=22d3ee" />
       <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=22d3ee" />
       <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=22d3ee" />
-      <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=22d3ee" />
     </td>
     <td align="center" width="50%">
       <h3>🎨 Frontend</h3>
