@@ -109,7 +109,7 @@ I care about clean architecture, purposeful code, and building things that actua
         <img src="https://github-readme-stats.vercel.app/api?username=csxark&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&show=reviews,discussions_started,prs_merged" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=csxark&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=22d3ee&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak" />
+        <img src="./profile/streak.svg" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -130,7 +130,7 @@ I care about clean architecture, purposeful code, and building things that actua
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=csxark&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&title_color=22d3ee" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 <br/>
