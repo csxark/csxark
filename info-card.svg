@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="584" viewBox="0 0 620 584">
+  <defs>
+    <style>
+      text { font-family: 'SF Mono', 'Fira Code', 'Courier New', monospace; }
+    </style>
+  </defs>
+  <rect x="0.75" y="0.75" width="618.5" height="582.5" rx="10"
+        fill="#0b0f17" stroke="#2dd4bf" stroke-opacity="0.35" stroke-width="1.5"/>
+  <path d="M 0.75 10 A 9.25 9.25 0 0 1 10 0.75 L 610 0.75 A 9.25 9.25 0 0 1 619.25 10 L 619.25 34 L 0.75 34 Z"
+        fill="#12161f"/>
+  <line x1="0.75" y1="34" x2="619.25" y2="34" stroke="#1f2733" stroke-width="1"/>
+  <circle cx="18" cy="17.0" r="6" fill="#ff5f56"/>
+  <circle cx="38" cy="17.0" r="6" fill="#ffbd2e"/>
+  <circle cx="58" cy="17.0" r="6" fill="#27c93f"/>
+  <text x="310.0" y="21.0" font-size="12" fill="#8b949e" text-anchor="middle">ark@github: ~$ neofetch</text>
+  <g transform="translate(0,34)">
+    <text x="20" y="34" font-size="17" xml:space="preserve"><tspan fill="#3fb950">ark</tspan><tspan fill="#c9d1d9">@github</tspan></text><text x="20" y="68" font-size="13" font-weight="bold" fill="#e3b341">Now</text><text x="170" y="68" font-size="13" fill="#c9d1d9">Solo Developer &amp; Technical Founder</text><text x="20" y="92" font-size="13" font-weight="bold" fill="#e3b341">Building</text><text x="170" y="92" font-size="13" fill="#c9d1d9">AyurvedaAI · GraphRAG Assistant · CryptoViz</text><text x="20" y="116" font-size="13" font-weight="bold" fill="#e3b341">Also</text><text x="170" y="116" font-size="13" fill="#c9d1d9">Campus Lead OSCG&#x27;26 · Project Admin ECSoC&#x27;26</text><text x="20" y="140" font-size="13" font-weight="bold" fill="#e3b341">Edu</text><text x="170" y="140" font-size="13" fill="#c9d1d9">B.Tech CS, Manipal University Jaipur &#x27;28</text><line x1="20" y1="158.0" x2="600" y2="158.0" stroke="#1f2733" stroke-width="1"/><text x="20" y="180" font-size="13" xml:space="preserve"><tspan fill="#6ee7f9">- Stack</tspan></text><text x="20" y="208" font-size="13" font-weight="bold" fill="#e3b341">Frontend</text><text x="170" y="208" font-size="13" fill="#c9d1d9">React, Next.js, TypeScript, React Native</text><text x="20" y="232" font-size="13" font-weight="bold" fill="#e3b341">Backend</text><text x="170" y="232" font-size="13" fill="#c9d1d9">FastAPI</text><text x="20" y="256" font-size="13" font-weight="bold" fill="#e3b341">AI / ML</text><text x="170" y="256" font-size="13" fill="#c9d1d9">XGBoost, LightGBM, CatBoost, LangChain, SHAP</text><text x="20" y="280" font-size="13" font-weight="bold" fill="#e3b341">Cloud</text><text x="170" y="280" font-size="13" fill="#c9d1d9">Docker, Git, Appwrite</text><line x1="20" y1="298.0" x2="600" y2="298.0" stroke="#1f2733" stroke-width="1"/><text x="20" y="320" font-size="13" xml:space="preserve"><tspan fill="#6ee7f9">- Stats</tspan><tspan fill="#5b6472">  (live)</tspan></text><text x="20" y="348" font-size="13" font-weight="bold" fill="#e3b341">Repos</text><text x="170" y="348" font-size="13" fill="#c9d1d9">24</text><text x="20" y="372" font-size="13" font-weight="bold" fill="#e3b341">Stars</text><text x="170" y="372" font-size="13" fill="#c9d1d9">18</text><text x="20" y="396" font-size="13" font-weight="bold" fill="#e3b341">Followers</text><text x="170" y="396" font-size="13" fill="#c9d1d9">40</text><text x="20" y="420" font-size="13" font-weight="bold" fill="#e3b341">Top lang</text><text x="170" y="420" font-size="13" fill="#c9d1d9">Python</text><line x1="20" y1="438.0" x2="600" y2="438.0" stroke="#1f2733" stroke-width="1"/><text x="20" y="460" font-size="13" xml:space="preserve"><tspan fill="#6ee7f9">- Highlights</tspan></text><circle cx="24" cy="483" r="3.5" fill="#3fb950"/><text x="38" y="488" font-size="13" fill="#c9d1d9">Led a 100+ student open-source community as OSCG&#x27;26 Campus Lead</text><circle cx="24" cy="507" r="3.5" fill="#3fb950"/><text x="38" y="512" font-size="13" fill="#c9d1d9">Built AyurvedaAI - an ML dosha predictor at 88% test accuracy</text>
+  </g>
+</svg>
